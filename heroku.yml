@@ -1,1 +1,2 @@
-web: node server.js
+run:
+  web: node server.js
