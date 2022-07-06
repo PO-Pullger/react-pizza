@@ -1,4 +1,0 @@
-build:
-  web: npm install
-run:
-  web: node server.js
